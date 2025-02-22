@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 変更
-ブランチセクションの講座で作成
+no-fast-branchで変更
